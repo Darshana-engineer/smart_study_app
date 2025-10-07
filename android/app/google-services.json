@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704759637184",
+    "project_id": "smart-study-app-77b95",
+    "storage_bucket": "smart-study-app-77b95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704759637184:android:5dfe484349a1a4d033f925",
+        "android_client_info": {
+          "package_name": "com.darshana.smartstudyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiajUe_l3mkOTbFvkbP7-1tQklfbZdLfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
